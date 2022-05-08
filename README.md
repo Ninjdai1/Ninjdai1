@@ -4,5 +4,4 @@
 - 📫 How to reach me: Discord - @CoolMan#4094
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Ninjdai&layout=compact&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninjdai1&repo=April)](https://github.com/ArtPortal/April)
