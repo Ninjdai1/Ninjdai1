@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ninjdai1
-- 👀 I’m interested in JS, Bash, Java, C++, Godot
-- 🌱 I’m currently learning: a lot of things, prob more than my brain can handle
+- 👀 I’m interested in Rust, Bash, Java, C++, Godot
+- 🌱 I’m currently learning: a lot of things (prob more than my brain can handle), but mainly rust atm
 - 📫 How to reach me: Discord - @ninjdai or <a href="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1&cc_load_policy=1&controls=0&modestbranding=1">here</a>
